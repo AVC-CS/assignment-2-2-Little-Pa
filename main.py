@@ -1,4 +1,4 @@
-def main():
+    def main():
 """
 ##################################################
 # Comlete your code here
@@ -17,5 +17,5 @@ celsius = int(input('enter your temperature in Celsius: '))
 return celsius, fahrenheit
 
 
-if __name__ == '__main__':
-    main()
+    if __name__ == '__main__':
+        main()
