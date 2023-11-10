@@ -6,9 +6,9 @@ def main():
     ##################################################
     """
     celsius = int(input('enter your temperature in Celsius: '))
-        fahrenheit = 9 / 5 * celsius + 32
-        
-        print ('the converted temperature is ', fahrenheit)
+    fahrenheit = 9 / 5 * celsius + 32
+    
+    print ('the converted temperature is ', fahrenheit)
     """
     ########################################
     # Do not delete the return statement
